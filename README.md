@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend engineer from India</h3>
 
 <p align="left">
-  <a href="https://twitter.com/puneets12734826" target="blank">
+  <a href="https://twitter.com/puneets12734826" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/puneets12734826?logo=twitter&style=for-the-badge" alt="puneets12734826" />
   </a>
 </p>
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/puneet-sharma-640457102" target="blank">
+  <a href="https://linkedin.com/in/puneet-sharma-640457102" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneet-sharma-640457102" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/puneetsharma997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puneetsharma997" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/puneetsharma997" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puneetsharma997" height="30" width="40" /></a>
 </p>
 
 ---
