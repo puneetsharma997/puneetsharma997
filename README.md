@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puneet Sharma</h1>
 <h3 align="center">A passionate frontend engineer from India</h3>
 
-<p align="left">
-  <a href="https://twitter.com/puneets12734826" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/puneets12734826?logo=twitter&style=for-the-badge" alt="puneets12734826" />
-  </a>
-</p>
-
 - 💻 Frontend Engineer with **3 years of experience** building responsive and user-focused web applications.  
   Proficient in **React.js**, **Redux**, and modern UI libraries such as **MUI** and **Ant Design**.  
   Skilled in collaborating with cross-functional teams, optimizing performance, and delivering scalable solutions.  
