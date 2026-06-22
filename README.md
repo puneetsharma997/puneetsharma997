@@ -58,7 +58,7 @@ const puneet = {
 
 <div align="center">
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <table>
 <tr>
