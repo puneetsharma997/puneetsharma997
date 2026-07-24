@@ -35,7 +35,7 @@ const puneet = {
   role: "Frontend Engineer",
   location: "India 🇮🇳",
   stack: ["React.js", "Next.js", "Tailwind", "TypeScript"],
-  mindset: "Build scalable products with exceptional UX"
+  mindset: "Build scalable products with exceptional UI"
 };
 ```
 </td>
@@ -56,49 +56,43 @@ const puneet = {
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
+<h4 align="left">• Language & Frameworks</h4>
 
-**Language & Frameworks**
-<br><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" height="60"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" width="50" height="50"/></a>  
+</p>
+<!-- <br> -->
 
-</td>
-<td align="center" width="33%">
+<h4 align="left">• UI & Styling</h4>
 
-**UI & Styling**
-<br><br>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60" height="60"/></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="60" height="60"/></a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="60" height="60"/></a>
+<p align="left">
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="50" height="50"/></a>&nbsp;
+</p>
+<!-- <br> -->
 
-</td>
-<td align="center" width="33%">
+<h4 align="left">• Tools & Workflows</h4>
 
-**Tools & Workflows**
-<br><br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" height="60"/></a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="60" height="60"/></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="60" height="60"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="60" height="60"/></a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="60" height="60"/></a>
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="50" height="50"/></a>&nbsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50" height="50"/></a>&nbsp;
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="50" height="50"/></a>&nbsp;
+</p>
 
 </div>
 
