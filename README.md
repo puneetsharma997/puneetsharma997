@@ -42,7 +42,7 @@ const puneet = {
 <td width="25%" align="center" justify="start">
 <img src="https://raw.githubusercontent.com/puneetsharma997/puneetsharma997/refs/heads/main/hero.png" width="200" />
 
-<a href="https://puneet-portfolio.web.app/"  target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge"/></a>
+<a href="https://puneet-sharma.netlify.app/"  target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge"/></a>
 <a href="mailto:puneetsharma997@gmail.com"><img src="https://img.shields.io/badge/📧_Email-334155?style=for-the-badge"/></a>
 
 </td>
@@ -131,7 +131,7 @@ const puneet = {
 
 ## 🔗 Connect
 
-<a href="https://puneet-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D5DF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://puneet-sharma.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D5DF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:puneetsharma997@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/puneetsharma997/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/puneetsharma997" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
